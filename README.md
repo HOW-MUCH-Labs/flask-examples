@@ -7,5 +7,5 @@ Hope you find something useful here.  :blush:
 ## Table of contents 
 
 ### CLI commands
-1. [Hello world](cli-command/hello-world/README.md)
-2. [Command code in another file and/or directory](cli-command/command-in-another-file/README.md) 
+1. [Hello world](cli-command/hello-world)
+2. [Command code in another file and/or directory](cli-command/command-in-another-file) 
